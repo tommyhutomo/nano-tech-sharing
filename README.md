@@ -9,7 +9,7 @@ mvn springboot:run
 ```
 ## How it work
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/tommyhutomo/moneylion-tech-assesment/blob/master/img/img.png?raw=true)
 
 ## Important URL
 
@@ -19,7 +19,7 @@ mvn springboot:run
 - Health check : http://localhost:8080/actuator/health
 - Metrics : http://localhost:8080/actuator/metrics
 
-All other Actuator are active
+All other Actuator endpoints are active
 
 ## Note
 - Some validation error used custom error object derived from RuntimeException, kindly scroll down to see the actual message
