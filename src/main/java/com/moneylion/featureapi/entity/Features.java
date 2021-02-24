@@ -1,6 +1,5 @@
 package com.moneylion.featureapi.entity;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
