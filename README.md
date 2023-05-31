@@ -1,6 +1,6 @@
-# Money Lion Technical Assesment
+# Nano chaining Technical sharing
 
-This repo meant to be use for Money Lion Tech assesment only
+This repo meant to be use for STD tech sharing
 
 ## How to start
 ```
